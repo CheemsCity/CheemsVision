@@ -7,7 +7,7 @@ Sentitevi liberi di usare questo tutorial per ogni scopo educativo.
 Saranno necessari come materiali, un Raspberry Pi 4.0 (3.0 può andare bene ma è parecchio lento) ed una PiCamera.
 
 Il tutorial può essere visionato grazie a [nbviewer](http://nbviewer.jupyter.org):
-* [Parte 0: Introduzione al corso](http://nbviewer.jupyter.org/github/CheemsCity/CheemsVision/CheemsVision-Part0-Introduction.ipynb)
+* [Parte 0: Introduzione al corso](https://github.com/CheemsCity/CheemsVision/blob/main/CheemsVision-Part0-Introduction.ipynb)
 
 # Installazione
 Saranno necessarie un paio di libreria: jupyter, opencv, numpy.
