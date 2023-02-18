@@ -10,7 +10,7 @@ Il tutorial può essere visionato grazie a [nbviewer](http://nbviewer.jupyter.or
 * [Parte 0: Introduzione al corso](http://nbviewer.jupyter.org/github/CheemsCity/CheemsVision/CheemsVision-Part0-Introduction.ipynb)
 
 # Installazione
-Saranno necessarie un paio di libreria: jupyter, opencv, numpy
+Saranno necessarie un paio di libreria: jupyter, opencv, numpy.
 Per l'installazione di OpenCV su Raspberry linko un tutorial, necessario, in quanto Raspberry sarà il cervello pensante della nostra macchina [Guida installazione su Raspberry](https://robu.in/installing-opencv-using-cmake-in-raspberry-pi/)
 
 
