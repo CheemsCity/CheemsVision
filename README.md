@@ -8,6 +8,7 @@ Saranno necessari come materiali, un Raspberry Pi 4.0 (3.0 può andare bene ma �
 
 Il tutorial può essere visionato grazie a [nbviewer](http://nbviewer.jupyter.org):
 * [Parte 0: Introduzione al corso](https://github.com/CheemsCity/CheemsVision/blob/main/CheemsVision-Part0-Introduction.ipynb)
+* [Parte 3: Riconoscimento Aruco Markers]((https://github.com/CheemsCity/CheemsVision/blob/main/CheemsVision-Part3-ArucoMarkersRecognition.ipynb)
 
 # Installazione
 Saranno necessarie un paio di libreria: jupyter, opencv, numpy.
