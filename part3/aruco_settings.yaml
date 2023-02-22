@@ -1,0 +1,20 @@
+- aruco_dictionary:
+  - DICT_6X6_50
+- aruco_markerLength:
+  - 0.066
+- aruco_canvasResolution: !!python/tuple
+  - 800
+  - 800
+- aruco_streetSign:
+    0:
+    - STOP
+    - Stop
+    1:
+    - IN
+    - Incrocio
+    2:
+    - ATTC
+    - Attraversamento Cheems
+    3:
+    - SEM
+    - Semaforo
