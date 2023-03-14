@@ -10,6 +10,7 @@ Volendo si può effettuare il tutto anche da PC ma quest'ultimo non permetterà 
 Il tutorial può essere visionato grazie a [nbviewer](http://nbviewer.jupyter.org):
 * [Parte 0: Introduzione al corso](https://github.com/CheemsCity/CheemsVision/blob/main/CheemsVision-Part0-Introduction.ipynb)
 * [Parte 1: Calibrazione della Camera](https://github.com/CheemsCity/CheemsVision/blob/main/CheemsVision-Part1-Calibration.ipynb)
+* [Parte 2: Riconoscimento delle linee](https://github.com/CheemsCity/CheemsVision/blob/main/CheemsVision-Part2-LineDetection.ipynb)
 * [Parte 3: Riconoscimento Aruco Markers](https://github.com/CheemsCity/CheemsVision/blob/main/CheemsVision-Part3-ArucoMarkersRecognition.ipynb)
 * [Parte 4: Identificazione Colori e Semafori](https://github.com/CheemsCity/CheemsVision/blob/main/CheemsVision-Part4-StreetLightFinder.ipynb)
 
