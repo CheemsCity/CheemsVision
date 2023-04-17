@@ -1,0 +1,30 @@
+H_matrix: !!python/object/apply:numpy.core.multiarray._reconstruct
+  args:
+  - !!python/name:numpy.ndarray ''
+  - !!python/tuple
+    - 0
+  - !!binary |
+    Yg==
+  state: !!python/tuple
+  - 1
+  - !!python/tuple
+    - 3
+    - 3
+  - !!python/object/apply:numpy.dtype
+    args:
+    - f8
+    - false
+    - true
+    state: !!python/tuple
+    - 3
+    - <
+    - null
+    - null
+    - null
+    - -1
+    - -1
+    - 0
+  - false
+  - !!binary |
+    XX+GRp5QA78DynFKU+sTv8MD2sT2zsi/+cWvvBZXSL+0iNthU+z1vp3x71Ubms8/qHz4VsSj8z49
+    jPV+mid/vwAAAAAAAPA/
