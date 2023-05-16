@@ -15,13 +15,13 @@ Il tutorial può essere visionato grazie a [nbviewer](http://nbviewer.jupyter.or
 * [Parte 4: Identificazione Colori e Semafori](https://github.com/CheemsCity/CheemsVision/blob/main/CheemsVision-Part4-StreetLightFinder.ipynb)
 
 # Installazione
-Saranno necessarie un paio di libreria: jupyter, opencv, numpy.
+Saranno necessarie un paio di libreria: jupyter, opencv, numpy, pyYAML e matplotlib.
 Per l'installazione di OpenCV su Raspberry linko un tutorial, necessario, in quanto Raspberry sarà il cervello pensante della nostra macchina [Guida installazione su Raspberry](https://robu.in/installing-opencv-using-cmake-in-raspberry-pi/)
 
 
 Per installare gli altri pacchetti e il contenuto di questo corso potete scrivere questo a terminale
 ```bash
-pip install numpy jupyter
+pip install numpy jupyter pyaml matplotlib
 #la prossima riga solo se sei su PC
 pip install opencv-contrib-python
 git clone https://github.com/CheemsCity/CheemsVision.git
@@ -29,6 +29,7 @@ cd CheemsVision
 jupyter notebook
 ```
 
-In caso volessi supportarci nella creazione di altri corsi e robot!
+
+In caso volessi supportarci nella creazione di altri corsi e robot, puoi offrirci un caffe!
 
 <a href="https://bmc.link/cheemscity" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
