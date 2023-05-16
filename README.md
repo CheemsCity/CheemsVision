@@ -21,7 +21,7 @@ Per l'installazione di OpenCV su Raspberry linko un tutorial, necessario, in qua
 
 Per installare gli altri pacchetti e il contenuto di questo corso potete scrivere questo a terminale
 ```bash
-pip install numpy jupyter pyaml matplotlib
+pip install numpy jupyter PyYAML matplotlib
 #la prossima riga solo se sei su PC
 pip install opencv-contrib-python
 git clone https://github.com/CheemsCity/CheemsVision.git
