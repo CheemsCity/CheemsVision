@@ -14,6 +14,8 @@ Il tutorial può essere visionato grazie a [nbviewer](http://nbviewer.jupyter.or
 * [Parte 3: Riconoscimento Aruco Markers](https://github.com/CheemsCity/CheemsVision/blob/main/CheemsVision-Part3-ArucoMarkersRecognition.ipynb)
 * [Parte 4: Identificazione Colori e Semafori](https://github.com/CheemsCity/CheemsVision/blob/main/CheemsVision-Part4-StreetLightFinder.ipynb)
 
+Alla fine di questi tutorial avrai tutte le competenze per creare una possibile pipeline per l'analisi di immagini per la guida autonoma!
+
 # Installazione
 Saranno necessarie un paio di libreria: jupyter, opencv, numpy, pyYAML e matplotlib.
 Per l'installazione di OpenCV su Raspberry linko un tutorial, necessario, in quanto Raspberry sarà il cervello pensante della nostra macchina [Guida installazione su Raspberry](https://robu.in/installing-opencv-using-cmake-in-raspberry-pi/)
