@@ -1,3 +1,5 @@
+
+![](part0/img/CheemsBanner.png)
 # Introduzione
 Questo corso comprende tutto il necessario per costruire da zero la componente software CV di un robot a guida autonoma.
 Partendo dalla calibrazione della camera fino a riconoscere i Cheems (abitanti della nostra città immaginaria) ed i cartelli stradali.
