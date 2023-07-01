@@ -8,7 +8,8 @@ Sentitevi liberi di usare questo tutorial per ogni scopo educativo.
 
 Saranno necessari come materiali, un Raspberry Pi 4.0 (3.0 può andare bene ma è parecchio lento) ed una PiCamera.
 Volendo si può effettuare il tutto anche da PC utilizzando una camera USB, ma per tutorial più avanzati, l'utilizzo del raspberry sarà fondamentale, 
-in quanto parte principale del robot. 
+in quanto parte principale del robot.
+
 Il tutorial può essere visionato grazie a [nbviewer](http://nbviewer.jupyter.org), ma per poter runnare il codice in modo ottimale è necessario scaricare la cartella sul proprio PC/raspberry:
 * [Parte 0: Introduzione al corso](https://github.com/CheemsCity/CheemsVision/blob/main/CheemsVision-Part0-Introduction.ipynb)
 * [Parte 1: Calibrazione della Camera](https://github.com/CheemsCity/CheemsVision/blob/main/CheemsVision-Part1-Calibration.ipynb)
