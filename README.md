@@ -32,7 +32,7 @@ Il metodo varierà in base al dispositivo che state usando.
 pip3 install virtualenv virtualenvwrapper
 nano ~/.bashrc
 ```
-aggiungi queste righe alla fine del file che si sarò aperto:  
+aggiungi queste righe alla fine del file che si sarà aperto:  
 ```bash
 #Virtualenvwrapper settings:
 export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
