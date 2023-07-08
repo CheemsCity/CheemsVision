@@ -22,6 +22,45 @@ Alla fine di questi tutorial avrai tutte le competenze per creare una possibile 
 # Installazione
 Saranno necessarie un paio di librerie: jupyter, opencv, numpy, pyYAML e matplotlib.  
 Sarà anche necessario avere Python installato.
+
+## Creazione Virtual Environment
+Creiamo un virtual env, ovvero uno spazio di lavoro python. Questo ci permetterà di installare tutte le librerie che vogliamo senza creare conflitto con  altri programmi.
+Il metodo varierà in base al dispositivo che state usando.
+
+### Caso Raspberry 
+```bash
+pip3 install virtualenv virtualenvwrapper
+nano ~/.bashrc
+```
+aggiungi queste righe alla fine del file che si sarò aperto:  
+```bash
+#Virtualenvwrapper settings:
+export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
+export WORKON_HOME=$HOME/.virtualenvs
+export VIRTUALENVWRAPPER_VIRTUALENV=~/.local/bin/virtualenv
+source ~/.local/bin/virtualenvwrapper.sh
+export VIRTUALENVWRAPPER_ENV_BIN_DIR=bin
+```
+ricarica il file
+```bash
+source ~/.bashrc
+```
+Creiamo ora il virtual env (i comandi prima erano necessari per l'installazione del gestore dei virtual env):
+```bash
+mkvirtualenv cv
+workon cv
+```
+ogni volta che vorrai attivare il virtual env creato utilizza il comando **workon nome_env**.  
+
+### Caso Windows 
+```bash
+pip install virtualenv 
+virtualenv cv
+ > cv\Scripts\activate
+```
+l'ultimo comando sarà necessario attivarlo ogni volta che si vorrà andare a lavorare in questo env! è importante trovarsi nella stessa cartella in cui lo si è creato per  poterlo attivare.
+
+## Pacchetti
 Per l'installazione di OpenCV su Raspberry linko un tutorial, necessario, in quanto Raspberry sarà il cervello pensante della nostra macchina [Guida installazione su Raspberry](https://robu.in/installing-opencv-using-cmake-in-raspberry-pi/)
 
 
